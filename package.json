@@ -1,0 +1,16 @@
+{
+  "name": "zapheros",
+  "version": "1.0.0",
+  "description": "Traditional solutions for information sharing, lost-and-found systems, and emergency identification often lack efficiency and style. Zapheros addresses these gaps by combining NFC technology with blockchain, creating a secure and innovative ecosystem.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Terry",
+  "license": "MIT",
+  "dependencies": {
+    "web3-eth-abi": "^1.7.3"
+  }
+}
+
